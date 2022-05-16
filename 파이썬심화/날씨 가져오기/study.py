@@ -1,7 +1,7 @@
 import requests
 import json
 
-city = "Seoul"
+city = "Gumi"
 apikey = "dda90795088e68b056e7fb29acabb1c9"
 lang = "kr"
 # units - metric 화씨를 섭씨로 바꿈
